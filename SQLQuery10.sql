@@ -1,0 +1,4 @@
+ALTER TABLE persons
+DROP COLUMN PHONE 
+
+SELECT * FROM persons
